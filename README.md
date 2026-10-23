@@ -25,7 +25,10 @@
 
 ![聊天机器人对话界面]
 <img width="1365" height="1213" alt="chatbot" src="https://github.com/user-attachments/assets/c9dee747-53ef-42d7-9451-cd31b94b809c" />
+
 ![Ollama 拉取模型]
 <img width="917" height="467" alt="ollama_pull" src="https://github.com/user-attachments/assets/775f6152-960b-440e-8221-87286784391f" />
+
+
 ![Streamlit 启动]
 <img width="1731" height="607" alt="streamlit_start" src="https://github.com/user-attachments/assets/f45557a6-ec9e-4416-940a-a7c592707bc7" />
