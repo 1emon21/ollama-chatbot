@@ -23,10 +23,7 @@
 - `ollama_text.py` - API 测试脚本
 ## 运行截图
 
-![聊天机器人对话界面]
-![Uploading QQ_1792742950226.png…]()
-![Ollama 拉取模型]![Uploading QQ_1792742932509.png…]()
-
-
-![Streamlit 启动]![Uploading QQ_1792743001359.png…]()
+![聊天机器人对话界面](QQ_1792742950226.png)
+![Ollama 拉取模型]
+![Streamlit 启动]
 
